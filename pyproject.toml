@@ -1,0 +1,5 @@
+[project]
+name = "leetcode"
+
+[tool.ruff]
+line-length = 150
