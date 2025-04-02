@@ -1,0 +1,9 @@
+what is REST ?
+REST vs SOAP
+what are ssl certs?
+Web sockets vs Serviceworkers
+
+Blogs:
+https://www.pluralsight.com/resources/blog
+https://medium.com/reloading
+https://netflixtechblog.com/
